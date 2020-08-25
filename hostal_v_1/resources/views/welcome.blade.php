@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Hospedaje
                 </div>
 
                 <div class="links">

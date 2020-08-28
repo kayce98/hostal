@@ -10,4 +10,3 @@ class Person extends Model
         'name', 'surname', 'dni'
     ];
 }
-git

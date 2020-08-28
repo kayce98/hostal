@@ -83,7 +83,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hospedaje Anthony 
+                    Hospedaje Anthony  V2 
                 </div>
 
                 <div class="links">
